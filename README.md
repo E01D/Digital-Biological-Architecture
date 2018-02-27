@@ -22,6 +22,9 @@ Below is a series of links to the concepts that are under active research and de
   * [Kernel](https://github.com/E01D/Digital-Biological-Architecture/wiki/Kernel)
     * Api Structure
   * The Digital Central Dogma
+    * Object Creation
+    * Object Caching
+    * Inversion of Control
 * [Glossary](https://github.com/E01D/Digital-Biological-Architecture/wiki/Glossary)
 
 # Using the Code
