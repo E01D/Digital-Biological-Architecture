@@ -21,6 +21,7 @@ Below is a series of links to the concepts that are under active research and de
   * Solution Structure
   * Api Structure
   * The Digital Central Dogma
+* [Glossary](https://github.com/E01D/Digital-Biological-Architecture/wiki/Glossary)
 
 # Using the Code
 
