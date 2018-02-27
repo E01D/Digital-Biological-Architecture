@@ -1,3 +1,5 @@
+Please note that this site is under **active development** and revision.  Concepts presented here are in flux and in rought draft form.
+
 # Digital Biological Architecture
 
 Software can be engineered and structured in numerous ways, but it does not mean it should.  With over twenty four years of software engineering experience comes the understanding that there are information rules that govern the writing of software, even if they are not currently taught in our computer science classes.  These information rules are taught, though indirectly, when students are taught the natural sciences, especially biochemistry and biology, as these two fields are the study of the most complex computer systems that exist today: the [cell](https://www.youtube.com/watch?v=wJyUtbn0O5Y) and the [mitochondria](https://www.youtube.com/watch?v=RrS2uROUjK4) that power them.  The fact is the information rules are really laws, and these information laws govern how information is structured.  Informaiton laws can be broken, nothing says that you have to program something in a certain way.   But when you are trying to lay down large amounts of code and want to maximize reuse, and minimize entropy (e.g. refactoring of code and technical debt), it is best to bide by these laws.  Unfortunately they are not written down and software developers are still figuring out the best ways to develop software.  The good news is that biology and biochemistry are subject to these same laws and by studying how things are done in the cell we can learn the same lessons that cells have learned over the course of two billion year of evolution.  
@@ -13,6 +15,14 @@ Becusae this project has to incoroporate so many ideas together, it is also an a
 # Concepts
 
 Below is a series of links to the concepts that are under active research and development.  
+
+* The Software Information Laws
+* Digital Cells
+  * Solution Structure
+  * Api Structure
+  * The Digital Central Dogma
+
+  
 
 
 
