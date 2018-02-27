@@ -28,6 +28,10 @@ Below is a series of links to the concepts that are under active research and de
 
 ## Kernel
 
+* Nuget Package
+* Kernel Source Code
+* Base Library Prototype Source Code
+
 ## Base Library
 
 ## Versions
