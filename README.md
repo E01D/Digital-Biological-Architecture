@@ -19,7 +19,8 @@ Below is a series of links to the concepts that are under active research and de
 * [The Software Information Laws](https://github.com/E01D/Digital-Biological-Architecture/wiki/Information-Rules)
 * Digital Cells
   * Solution Structure
-  * Api Structure
+  * [Kernel](https://github.com/E01D/Digital-Biological-Architecture/wiki/Kernel)
+    * Api Structure
   * The Digital Central Dogma
 * [Glossary](https://github.com/E01D/Digital-Biological-Architecture/wiki/Glossary)
 
