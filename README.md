@@ -22,7 +22,16 @@ Below is a series of links to the concepts that are under active research and de
   * Api Structure
   * The Digital Central Dogma
 
-  
+# Using the Code
+
+## Kernel
+
+## Base Library
+
+## Versions
+Evobolics is planning 
+
+
 
 
 
