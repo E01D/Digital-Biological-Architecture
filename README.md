@@ -16,7 +16,7 @@ Becusae this project has to incoroporate so many ideas together, it is also an a
 
 Below is a series of links to the concepts that are under active research and development.  
 
-* The Software Information Laws
+* [The Software Information Laws](https://github.com/E01D/Digital-Biological-Architecture/wiki/Information-Rules)
 * Digital Cells
   * Solution Structure
   * Api Structure
