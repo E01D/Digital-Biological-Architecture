@@ -1,4 +1,4 @@
-Please note that this site is under **active development** and revision.  Concepts presented here are in flux and in rought draft form.
+Please note that this site is under **active development** and revision.  Concepts presented here are in flux and in rough draft form until they are finalized.  
 
 # Digital Biological Architecture
 
