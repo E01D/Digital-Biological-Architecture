@@ -35,7 +35,7 @@ Below is a series of links to the concepts that are under active research and de
 ## Base Library
 
 ## Versions
-Evobolics is planning 
+Evobolics is planning on offering libraries that can be ran using the .NET Framework 4.6.1 and the .NET Standard 2.0.  The solution to the library is coded using the framework due to the fact Visual Studio cannot handle a large number of .NET Standard projects.  Last count had the entire solution over 700 projects in size.  It is possible though to build the .NET Standard solution using the command line.
 
 
 
