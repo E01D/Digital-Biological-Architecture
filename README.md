@@ -22,6 +22,7 @@ Below is a series of links to the concepts that are under active research and de
   * Project Structure
   * [Kernel](https://github.com/E01D/Digital-Biological-Architecture/wiki/Kernel)
     * Api Structure
+* A Digital Basis
 * Digital Cells
   * The Digital Central Dogma
     * Object Creation
