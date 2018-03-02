@@ -20,8 +20,11 @@ Below is a series of links to the concepts that are under active research and de
 * Digital Biological Architecture
   * Solution Structure
   * Project Structure
+  * [Api]() (Three Dimensional)
+  * Basic Functional Layer
+    * Tooling
   * [Kernel](https://github.com/E01D/Digital-Biological-Architecture/wiki/Kernel)
-    * Api Structure
+    * [Api]() (Four Dimensional)
 * A Digital Basis
 * Digital Cells
   * The Digital Central Dogma
