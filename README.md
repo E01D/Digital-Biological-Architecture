@@ -21,6 +21,12 @@ Below is a series of links to the concepts that are under active research and de
   * Solution Structure
   * Project Structure
   * [Api]() (One through Four Dimensions)
+  * Identification - do not need types
+  * Metadata
+    * Typal - Crude
+  * Common Language Infrastructure
+  * Dotnet - Basic - Non Instancative - Instance is implied to be contained by statics 
+  * Objectal - can create objects with types in place
   * Basic Functional Layer
     * Tooling
   * [Plasmas and Plasms](https://github.com/E01D/Digital-Biological-Architecture/wiki/Kernel)
