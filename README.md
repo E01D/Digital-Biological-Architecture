@@ -28,6 +28,7 @@ Below is a series of links to the concepts that are under active research and de
       * Kortime (KLR) - Kore Lanaguge Runtime
       * Kornel - Provides the neccessary logic to host a Kor above it
       * Kompiler - Provides the neccessary tooling to produce the layer
+      * Kommon - Common Logic used to provide additional services beyond hosting
     * Kor Types
       * Boot Image (BI)
       * Operating System (OS)
@@ -44,6 +45,7 @@ Below is a series of links to the concepts that are under active research and de
     * Kortime (KLR) - Kore Lanaguge Runtime
     * Kornel
     * Kompiler
+    * Kommon - Implemetnation Specific 
   * Kor Implementation Specific Makeup
     * Kor - Boot Image
       * Kachine - Hardware Abstraction Layer
