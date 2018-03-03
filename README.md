@@ -38,8 +38,14 @@ Below is a series of links to the concepts that are under active research and de
         * Kompiler - Compiles Korlib, Kortime and Kornel to work with Kachine - No overlay support
         * Kor Overlays
           * Kommon 
-            * Vacuole and Kor Korlib Translation Layer
-            * Vacuole and Kor Kortime Translation Layer
+            * Metabolism Support
+              * Translation Layer
+              * Messaging 
+              * Object Exporting and Importing
+              * Object Folding and Quandary protein 
+              * Energy / Monetary Production
+            * Advanced Intra and Extra Cellular Object Production
+            * Vacuole and Kor Metabolism Production and Support
           * Internal Container Declarations / Instances
              * Non-Cors - have their own lib (set of apis) and/or sub/partial runtime - e.g. Vacuoles / Organalles 
              * Kors - Full fractal pattern repeats that are hosted - e.g. mitochondria
