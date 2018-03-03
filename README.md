@@ -40,10 +40,12 @@ Below is a series of links to the concepts that are under active research and de
           * Kommon 
             * Vacuole and Kor Korlib Translation Layer
             * Vacuole and Kor Kortime Translation Layer
-          * Internal Declarations / Instances
-             * Vacuoles / Organalles - non-kors but have their own lib (set of apis) and/or sub/partial runtime
-             * Kors - Full fractal pattern repeats that are hosted (mitochondria)
+          * Internal Container Declarations / Instances
+             * Non-Cors - have their own lib (set of apis) and/or sub/partial runtime - e.g. Vacuoles / Organalles 
+             * Kors - Full fractal pattern repeats that are hosted - e.g. mitochondria
           * External Attachments Produced Internally
+             * Exposed API access Points  - e.g. inter membrane proteins
+             * Tools - objects manipulated by this level, but hosted by the same underlying layer - e.g. extra cellular proteins in cellular matrix
       * Grouping - Organisms
         * 1 or More Kors working together is an organism 
         * The KCommon and hosted Internals Instances can differentiate to produce specialized kor patterns
@@ -56,7 +58,7 @@ Below is a series of links to the concepts that are under active research and de
           * Kor Overlays
             * Kommon 
               * Molecules and Electrical Siganls that Travel between brain and (organs/tissues/cells)
-            * Internal Declarations / Instances
+            * Internal Container Declarations / Instances
                * Organs
                * Bacteria
             * External Attachments Produced Internally
