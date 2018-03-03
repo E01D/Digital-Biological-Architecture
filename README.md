@@ -23,12 +23,44 @@ Below is a series of links to the concepts that are under active research and de
   * [Api]() (One through Four Dimensions)
   * Kor
     * Fractal Pattern
-      * Kachine (Kal) (Kachine/Machine/Hardware Abstraction Layer)
-      * Korlib (Kll) - Kore Language Library (Core Library + Kommon Language Library)
-      * Kortime (KLR) - Kore Lanaguge Runtime
-      * Kornel - Provides the neccessary logic to host a Kor above it - the nucleus, the nucleosol and nucleoplasm
-      * Kompiler - Provides the neccessary tooling to produce the layer
-      * Kommon - Common Logic used to provide additional services beyond hosting - the cell, the cytosol and cytoplasm
+      * Kachine (Kal) (Machine / Actual Hardware / Hardware Abstraction)
+      * Kor Container - the cell, the cytosol and cytoplasm
+        * Korlib (Kll) - Kore Language Library (Core Library + Kommon Language Library)
+        * Kortime (KLR) - Kore Lanaguge Runtime
+        * Kornel - the nucleus, the nucleosol and nucleoplasm
+          * Purpose
+             * Vacuoles Hosting Support
+             * Kors Hosting Support
+          * Overlays - Not touched by Kompilier / Provides the neccessary logic to host a Kor above it
+            * Korlib Advanced
+            * Kortime Advanced
+      * Kompiler - Compiles Korlib, Kortime and Kornel to work with Kachine - No overlay support
+      * Kor Overlays
+        * Kommon 
+          * Vacuole and Kor Korlib Translation Layer
+          * Vacuole and Kor Kortime Translation Layer
+        * Internal Declarations / Instances
+           * Vacuoles / Organalles - non-kors but have their own lib (set of apis) and/or sub/partial runtime
+           * Kors - Full fractal pattern repeats that are hosted (mitochondria)
+        * External Attachments Produced Internally
+      * Organisms
+        * 1 or More Kors working together is an organism 
+        * The KCommon and hosted Internals Instances can differentiate to produce specialized kor patterns
+        * Specialized Kor patterns can form tissues and organs which become higher level Kors themselves
+        * Kor Organsism
+          * Korlib - Collective electrical and chemicals used to communicate with cells
+          * Kortime - The individual systems that run the electrical and chemical signals (parts of the brain)
+          * Kornel - Brain and Neverous System
+          * Kompiler - Compiles Korlib, Kortime and Kornel to work with Kachine - No overlay support
+          * Kor Overlays
+            * Kommon 
+              * Molecules and Electrical Siganls that Travel between brain and (organs/tissues/cells)
+            * Internal Declarations / Instances
+               * Organs
+               * Bacteria
+            * External Attachments Produced Internally
+                * Handheld Tools
+                * Excretions
     * Kor Types
       * Boot Image (BI)
       * Operating System (OS)
