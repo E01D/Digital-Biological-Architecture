@@ -26,9 +26,9 @@ Below is a series of links to the concepts that are under active research and de
       * Kachine (Kal) (Kachine/Machine/Hardware Abstraction Layer)
       * Korlib (Kll) - Kore Language Library (Core Library + Kommon Language Library)
       * Kortime (KLR) - Kore Lanaguge Runtime
-      * Kornel - Provides the neccessary logic to host a Kor above it
+      * Kornel - Provides the neccessary logic to host a Kor above it - the nucleus, the nucleosol and nucleoplasm
       * Kompiler - Provides the neccessary tooling to produce the layer
-      * Kommon - Common Logic used to provide additional services beyond hosting
+      * Kommon - Common Logic used to provide additional services beyond hosting - the cell, the cytosol and cytoplasm
     * Kor Types
       * Boot Image (BI)
       * Operating System (OS)
@@ -64,14 +64,15 @@ Below is a series of links to the concepts that are under active research and de
       * Kornel - Provides the ability to host component instances that can have their own runtimes or Kors
          * [Plasmas and Plasms](https://github.com/E01D/Digital-Biological-Architecture/wiki/Kernel)
            * [Api]() (Five Dimensional)
-      * Kompiler - Provides the neccessary tooling to produce libraries and executables (pre and post ccompiler modifications)
-      * Kommon - Common Area / General Logic
-        * Digital Cell Functionaltiy
-          * Advanced Dotnet Wrapper
+           * Digital Cell Functionaltiy / Advanced Dotnet Wrapper
              * The Digital Central Dogma
                * Object Creation
                * Object Caching
                * Advanced Inversion of Control
+      * Kompiler - Provides the neccessary tooling to produce libraries and executables (pre and post ccompiler modifications)
+      * Kommon - Common Area / General Logic
+        * Higher Level Framework Functionality
+        * Business Domain Logic
     * Kor - Plasma / Cell / Virtual Machine (VM) / Blockchain VM / Emulated Boot Image (EBI)
       * Kachine - App provided Hardware Abstraction Layer - Dummy / Direct Access / Abstraction Layer / Emulator
       * Korlib - necessary lib to compile the runtime and kornel
