@@ -29,10 +29,10 @@ Below is a series of links to the concepts that are under active research and de
       * Kornel - Provides the neccessary logic to host a Kor above it
       * Kompiler - Provides the neccessary tooling to produce the layer
     * Kor Types
-      * Boot Image
-      * Operating System
-      * App
-      * Component / Virtual VM
+      * Boot Image (BI)
+      * Operating System (OS)
+      * Application (App)
+      * Plasma / Cell / Virtual Machine (VM) / Blockchain VM / Emulated Boot Image (EBI)
   * Kor Abstract Makeup
     * Kachine - Hardware Abstraction Layer
     * Korlib (Kll) - Kore Language Library (Core Library + Kommon Language Library)
@@ -70,7 +70,7 @@ Below is a series of links to the concepts that are under active research and de
                * Object Creation
                * Object Caching
                * Advanced Inversion of Control
-    * Kor - Component / Blockchain VM
+    * Kor - Plasma / Cell / Virtual Machine (VM) / Blockchain VM / Emulated Boot Image (EBI)
       * Kachine - App provided Hardware Abstraction Layer - Dummy / Direct Access / Abstraction Layer / Emulator
       * Korlib - necessary lib to compile the runtime and kornel
       * Kortime - virtual runtime used to run programs differnetly than Dotnet or just another version of Dotnet
