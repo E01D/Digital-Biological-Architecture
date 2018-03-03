@@ -93,7 +93,7 @@ Below is a series of links to the concepts that are under active research and de
       * Kachine - Hardware Abstraction Layer
     * Kor - Operating System
       * Kachine - Boot Image provided Hardware Abstraction Layer
-    * Kor - App
+    * Kor - App - Blockchain Full Node
       * Kachine - Operating System provided Hardware Abstraction Layer
       * Korlib  - Basic Dotnet Common Language Build Out + Additional Core Tooling
         * Typal - CLR like Declarations
