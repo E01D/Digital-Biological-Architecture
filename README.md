@@ -33,7 +33,7 @@ Below is a series of links to the concepts that are under active research and de
       * Operating System
       * App
       * Component / Virtual VM
-  * Kor Makeup
+  * Kor Abstract Makeup
     * Kachine - Hardware Abstraction Layer
     * Korlib (Kll) - Kore Language Library (Core Library + Kommon Language Library)
       * Identification - do not need types    
@@ -44,7 +44,7 @@ Below is a series of links to the concepts that are under active research and de
     * Kortime (KLR) - Kore Lanaguge Runtime
     * Kornel
     * Kompiler
-  * Kor Implementations
+  * Kor Implementation Specific Makeup
     * Kor - Boot Image
       * Kachine - Hardware Abstraction Layer
     * Kor - Operating System
