@@ -21,22 +21,61 @@ Below is a series of links to the concepts that are under active research and de
   * Solution Structure
   * Project Structure
   * [Api]() (One through Four Dimensions)
-  * Identification - do not need types
-  * Metadata
-    * Typal - Crude
-  * Common Language Infrastructure
-  * Dotnet - Basic - Non Instancative - Instance is implied to be contained by statics 
-  * Objectal - can create objects with types in place
-  * Basic Functional Layer
-    * Tooling
-  * [Plasmas and Plasms](https://github.com/E01D/Digital-Biological-Architecture/wiki/Kernel)
-    * [Api]() (Five Dimensional)
-* A Digital Basis
-* Digital Cells
-  * The Digital Central Dogma
-    * Object Creation
-    * Object Caching
-    * Inversion of Control
+  * Kor
+    * Fractal Pattern
+      * Kachine (Kal) (Kachine/Machine/Hardware Abstraction Layer)
+      * Korlib (Kll) - Kore Language Library (Core Library + Kommon Language Library)
+      * Kortime (KLR) - Kore Lanaguge Runtime
+      * Kornel - Provides the neccessary logic to host a Kor above it
+      * Kompiler - Provides the neccessary tooling to produce the layer
+    * Kor Types
+      * Boot Image
+      * Operating System
+      * App
+      * Component / Virtual VM
+  * Kor Makeup
+    * Kachine - Hardware Abstraction Layer
+    * Korlib (Kll) - Kore Language Library (Core Library + Kommon Language Library)
+      * Identification - do not need types    
+      * Common Language Infrastructure
+        * Metadata
+          * Typal - Crude
+          * Typal - Full
+    * Kortime (KLR) - Kore Lanaguge Runtime
+    * Kornel
+    * Kompiler
+  * Kor Implementations
+    * Kor - Boot Image
+      * Kachine - Hardware Abstraction Layer
+    * Kor - Operating System
+      * Kachine - Boot Image provided Hardware Abstraction Layer
+    * Kor - App
+      * Kachine - Operating System provided Hardware Abstraction Layer
+      * Korlib  - Basic Dotnet Common Language Build Out + Additional Core Tooling
+        * Typal - CLR like Declarations
+        * Objetal - Declares object specification
+        * Basic Functional Layer
+           * Tooling
+        * Common Lib
+      * Kortime - Basic Dotnet Runtime Wrapper - Instance is implied to be contained by statics 
+        * Objetal - can create objects with types in place
+      * Kornel - Provides the ability to host component instances that can have their own runtimes or Kors
+         * [Plasmas and Plasms](https://github.com/E01D/Digital-Biological-Architecture/wiki/Kernel)
+           * [Api]() (Five Dimensional)
+      * Kompiler - Provides the neccessary tooling to produce libraries and executables (pre and post ccompiler modifications)
+      * Kommon - Common Area / General Logic
+        * Digital Cell Functionaltiy
+          * Advanced Dotnet Wrapper
+             * The Digital Central Dogma
+               * Object Creation
+               * Object Caching
+               * Advanced Inversion of Control
+    * Kor - Component / Blockchain VM
+      * Kachine - App provided Hardware Abstraction Layer - Dummy / Direct Access / Abstraction Layer / Emulator
+      * Korlib - necessary lib to compile the runtime and kornel
+      * Kortime - virtual runtime used to run programs differnetly than Dotnet or just another version of Dotnet
+      * Kornel - component logic
+      * Komopiler -  Provides the neccessary tooling to produce component libraries / possibly from source files other than C#.
 * [Glossary](https://github.com/E01D/Digital-Biological-Architecture/wiki/Glossary)
 
 # Using the Code
